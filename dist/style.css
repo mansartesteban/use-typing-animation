@@ -1,0 +1,1 @@
+.typing-animation__writer{border-right:.1em solid white}.typing-animation__writer:not(.typing-animation__typing){animation:blink-caret 1.2s step-end infinite}@keyframes typing{0%{width:0}to{width:100%}}@keyframes blink-caret{0%,to{border-color:transparent}50%{border-color:#fff}}
